@@ -1,0 +1,26 @@
+E:\PA\clinica\clinica\bin\Debug\clinica.exe.config
+E:\PA\clinica\clinica\bin\Debug\clinica.exe
+E:\PA\clinica\clinica\bin\Debug\clinica.pdb
+E:\PA\clinica\clinica\obj\Debug\clinica.csproj.AssemblyReference.cache
+E:\PA\clinica\clinica\obj\Debug\clinica.Form1.resources
+E:\PA\clinica\clinica\obj\Debug\clinica.Properties.Resources.resources
+E:\PA\clinica\clinica\obj\Debug\clinica.csproj.GenerateResource.cache
+E:\PA\clinica\clinica\obj\Debug\clinica.csproj.CoreCompileInputs.cache
+E:\PA\clinica\clinica\obj\Debug\clinica.exe
+E:\PA\clinica\clinica\obj\Debug\clinica.pdb
+E:\PA\clinica\clinica\obj\Debug\clinica.CLIENTE.resources
+E:\PA\clinica\clinica\obj\Debug\clinica.MEDICO.resources
+C:\Users\Luis Henrique\Desktop\clinica-20211124T010855Z-001\clinica\clinica\bin\Debug\clinica.exe.config
+C:\Users\Luis Henrique\Desktop\clinica-20211124T010855Z-001\clinica\clinica\bin\Debug\clinica.exe
+C:\Users\Luis Henrique\Desktop\clinica-20211124T010855Z-001\clinica\clinica\bin\Debug\clinica.pdb
+C:\Users\Luis Henrique\Desktop\clinica-20211124T010855Z-001\clinica\clinica\obj\Debug\clinica.csproj.AssemblyReference.cache
+C:\Users\Luis Henrique\Desktop\clinica-20211124T010855Z-001\clinica\clinica\obj\Debug\clinica.CLIENTE.resources
+C:\Users\Luis Henrique\Desktop\clinica-20211124T010855Z-001\clinica\clinica\obj\Debug\clinica.Form1.resources
+C:\Users\Luis Henrique\Desktop\clinica-20211124T010855Z-001\clinica\clinica\obj\Debug\clinica.MEDICO.resources
+C:\Users\Luis Henrique\Desktop\clinica-20211124T010855Z-001\clinica\clinica\obj\Debug\clinica.Properties.Resources.resources
+C:\Users\Luis Henrique\Desktop\clinica-20211124T010855Z-001\clinica\clinica\obj\Debug\clinica.csproj.GenerateResource.cache
+C:\Users\Luis Henrique\Desktop\clinica-20211124T010855Z-001\clinica\clinica\obj\Debug\clinica.csproj.CoreCompileInputs.cache
+C:\Users\Luis Henrique\Desktop\clinica-20211124T010855Z-001\clinica\clinica\obj\Debug\clinica.exe
+C:\Users\Luis Henrique\Desktop\clinica-20211124T010855Z-001\clinica\clinica\obj\Debug\clinica.pdb
+C:\Users\Luis Henrique\Desktop\clinica-20211124T010855Z-001\clinica\clinica\obj\Debug\clinica.CONSULTA.resources
+C:\Users\Luis Henrique\Desktop\clinica-20211124T010855Z-001\clinica\clinica\obj\Debug\clinica.ATENDENTE.resources
